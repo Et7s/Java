@@ -1,0 +1,24 @@
+Exception: CustomEmail
+Message: Недопустимый формат email-адреса: Hello_is@gmail.co2m
+StackTrace: 
+	Email1.Email(Email1.java:25)
+	Email1.main(Email1.java:15)
+
+Exception: CustomEmail
+Message: Недопустимый формат email-адреса: Hello_is@gmail.com
+StackTrace: 
+	Email1.Email(Email1.java:25)
+	Email1.main(Email1.java:15)
+
+Exception: CustomEmail
+Message: Недопустимый формат email-адреса: Hello_is@gmail.com
+StackTrace: 
+	Email1.Email(Email1.java:25)
+	Email1.main(Email1.java:15)
+
+Exception: CustomEmail
+Message: Недопустимый формат email-адреса: Hello_is@gmail.c2om
+StackTrace: 
+	Email1.Email(Email1.java:25)
+	Email1.main(Email1.java:15)
+
