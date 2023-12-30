@@ -1,0 +1,17 @@
+Apple 12
+Banana 14
+Grape 5
+Melon 5
+Orange 3
+Pear 7
+
+Orange 3
+Grape 5
+Melon 5
+Pear 7
+Apple 12
+Banana 14
+
+Apple 12
+Banana 14
+

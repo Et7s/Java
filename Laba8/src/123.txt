@@ -1,0 +1,6 @@
+Apple 12
+Orange 3
+Grape 5
+Banana 14
+Pear 7
+Melon 5
